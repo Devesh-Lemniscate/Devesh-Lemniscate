@@ -37,10 +37,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%" />
-</p>
+![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devesh-Lemniscate&show_icons=true&theme=radical)
+
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-tiwari-4b1570287/)
