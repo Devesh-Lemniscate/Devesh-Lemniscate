@@ -1,45 +1,69 @@
-# Hi there, I'm Devesh Tiwari 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Devesh+Tiwari;Building+Scalable+Systems;Competitive+Programmer;Full+Stack+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
-## About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/devesh-tiwari-4b1570287/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:tiwaridevesh444@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-- 🎓 **BTech CSE | 4th Semester**
-- 💻 **Passionate about Algorithms, AI, and System Development**
-- ⚡ **Exploring Fedora | Open to Hackathons**
-- 🚀 **Building AI-driven solutions and real-world optimizations**
+<br/>
 
-## 🛠️ Tech Stack
+### About Me
 
-### 💡 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+- **B.Tech CSE | 6th Semester** at Graphic Era Hill University.
+- **Core Focus:** High-Performance Backend Systems & Algorithms.
+- **Currently:** Exploring System Design, Distributed Systems, and Fedora Linux.
+- **Goal:** Building AI-driven solutions and optimizing real-world infrastructure.
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+---
 
-### 🤖 AI/ML & Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### Tech Stack
 
-## 📈 GitHub Stats
-![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devesh-Lemniscate&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,html,css&theme=dark" />
+  </a>
+  <br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,redis,mysql&theme=dark" />
+  </a>
+  <br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,postman,tensorflow,pytorch,opencv&theme=dark" />
+  </a>
+</p>
 
+---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-tiwari-4b1570287/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Devesh-Lemniscate)
+### Activity
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/Devesh-Lemniscate?style=for-the-badge&color=20C20E&labelColor=141321&logo=github" />
+<img src="https://img.shields.io/github/stars/Devesh-Lemniscate?style=for-the-badge&color=FFA116&labelColor=141321&logo=apachespark" />
+
+<br/><br/>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devesh-Lemniscate&bg_color=141321&color=20C20E&line=20C20E&point=FFFFFF&area=true&hide_border=true&hide_title=true" />
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devesh-Lemniscate&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="profile views" />
+</p>
